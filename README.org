@@ -1,0 +1,8 @@
+* BetCrypted Project
+Football match prediction website, algorithm for betting and sports fanatics
+[[https://betcrypted.com][betcrypted]]
+
+* Web Crawler
+* Django Site
+* Data Uploader
+* Web hosting and Deployment
