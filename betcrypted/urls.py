@@ -15,6 +15,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+import betcrypted.views as bviews
+import games.views as gviews
 
 urlpatterns = [
     path('admin/', admin.site.urls),
